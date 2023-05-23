@@ -1,0 +1,22 @@
+[GENERATED OBJECT FILE]
+b__p2_1.o
+[PROJECT FILES]
+/home/zazo/Escritorio/STR_pract/P_ADA2/p2_1/p2_1.gpr
+20211028095240
+[BOUND OBJECT FILES]
+/home/zazo/Escritorio/STR_pract/P_ADA2/p2_1/obj/paquetebarrera.o
+/home/zazo/Escritorio/STR_pract/P_ADA2/p2_1/obj/p2_1.o
+[GENERATED SOURCE FILES]
+b__p2_1.ads
+b__p2_1.adb
+b__p2_1.ali
+[RESULTING OPTIONS]
+-L/home/zazo/Escritorio/STR_pract/P_ADA2/p2_1/obj/
+-L/home/zazo/Escritorio/STR_pract/P_ADA2/p2_1/obj/
+-L/usr/gnat/lib/gcc/x86_64-pc-linux-gnu/4.9.3/adalib/
+-static
+-static-libgcc
+/usr/gnat/lib/gcc/x86_64-pc-linux-gnu/4.9.3/adalib/libgnarl.a
+/usr/gnat/lib/gcc/x86_64-pc-linux-gnu/4.9.3/adalib/libgnat.a
+-lpthread
+-lrt

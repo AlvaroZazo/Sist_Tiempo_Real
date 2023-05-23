@@ -1,0 +1,22 @@
+[GENERATED OBJECT FILE]
+b__p3.o
+[PROJECT FILES]
+/home/zazo/Escritorio/STR_pract/P_ADA3/PracticaADA3/p3.gpr
+20211028101226
+[BOUND OBJECT FILES]
+/home/zazo/Escritorio/STR_pract/P_ADA3/PracticaADA3/obj/controlador.o
+/home/zazo/Escritorio/STR_pract/P_ADA3/PracticaADA3/obj/p3.o
+[GENERATED SOURCE FILES]
+b__p3.ads
+b__p3.adb
+b__p3.ali
+[RESULTING OPTIONS]
+-L/home/zazo/Escritorio/STR_pract/P_ADA3/PracticaADA3/obj/
+-L/home/zazo/Escritorio/STR_pract/P_ADA3/PracticaADA3/obj/
+-L/usr/gnat/lib/gcc/x86_64-pc-linux-gnu/4.9.3/adalib/
+-static
+-static-libgcc
+/usr/gnat/lib/gcc/x86_64-pc-linux-gnu/4.9.3/adalib/libgnarl.a
+/usr/gnat/lib/gcc/x86_64-pc-linux-gnu/4.9.3/adalib/libgnat.a
+-lpthread
+-lrt

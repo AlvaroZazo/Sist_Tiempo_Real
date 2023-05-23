@@ -1,0 +1,22 @@
+[GENERATED OBJECT FILE]
+b__p1.o
+[PROJECT FILES]
+/home/zazo/Escritorio/STR_pract/P_ADA1/PracticaADA1/p1.gpr
+20221109170903
+[BOUND OBJECT FILES]
+/home/zazo/Escritorio/STR_pract/P_ADA1/PracticaADA1/obj/pila_acotada.o
+/home/zazo/Escritorio/STR_pract/P_ADA1/PracticaADA1/obj/p1.o
+[GENERATED SOURCE FILES]
+b__p1.ads
+b__p1.adb
+b__p1.ali
+[RESULTING OPTIONS]
+-L/home/zazo/Escritorio/STR_pract/P_ADA1/PracticaADA1/obj/
+-L/home/zazo/Escritorio/STR_pract/P_ADA1/PracticaADA1/obj/
+-L/usr/gnat/lib/gcc/x86_64-pc-linux-gnu/4.9.3/adalib/
+-static
+-static-libgcc
+/usr/gnat/lib/gcc/x86_64-pc-linux-gnu/4.9.3/adalib/libgnarl.a
+/usr/gnat/lib/gcc/x86_64-pc-linux-gnu/4.9.3/adalib/libgnat.a
+-lpthread
+-lrt
